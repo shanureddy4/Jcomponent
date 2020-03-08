@@ -1,0 +1,16 @@
+/* Scanner scan=new Scanner(System.in);
+            System.out.println("Enter");
+            String fi=scan.nextLine();
+            String la=scan.nextLine();
+            String uid=scan.nextLine();           //for signup
+            String sql="INSERT INTO SIGNUP"
+                    + "(FIRSTNAME , LASTNAME, USERNAME, PASSWORD) VALUES"
+                    + "(?,?,?,?)";
+            PreparedStatement st=conn.prepareStatement(sql);
+            st.setString(1,fi);
+            st.setString(2,la);
+            st.setString(3,uid);
+            st.setString(4,pwrd);
+            st.executeUpdate();
+            conn.close();
+            //*/
