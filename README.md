@@ -11,6 +11,7 @@ Java swing application that used to book travel tickets and rooms.
 - Add them in the project structure
 # Database Tables
 > SIGNUP
+
 ` create table SIGNUP
 (
  FIRSTNAME VARCHAR2(20) not null,
