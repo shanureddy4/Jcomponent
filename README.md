@@ -1,6 +1,6 @@
 # Jcomponent
 Java swing application that used to book travel tickets and rooms.
-#Steps to deploy
+## Steps to deploy
 - Import project in intelliJ
 - connect to oracle with ojdbc8
 - use api's 
